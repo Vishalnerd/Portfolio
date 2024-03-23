@@ -373,7 +373,10 @@ html{
     nav{
         width:950px;
     }
-
+    .footer{
+        justify-content:right;
+        align-items:right;
+    }
     .third-Section{
         margin-top: 550px;
     }
