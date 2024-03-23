@@ -367,7 +367,7 @@ html{
 
     footer{
         height:180px;
-        width:1000px;
+        width:fit-content;
     }
 }
 
